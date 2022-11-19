@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">News App</string>
     <string name="about_me">About Me</string>
+    <string name="back">Back</string>
+    <string name="profile">Back</string>
+    <string name="about_me_content">I am an Informatics student at Institute of Technology of Kalimantan, interested in android development and machine learning.</string>
 </resources>
