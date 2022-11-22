@@ -1,5 +1,5 @@
 # MyJetpackComposeSubmission
-[![Android CI](https://github.com/MohFahmi27/MyJetpackComposeSubmission/actions/workflows/android%20CI.yml/badge.svg)](https://github.com/MohFahmi27/MyJetpackComposeSubmission/actions/workflows/android%20CI.yml)
+[![Android CI](https://github.com/MohFahmi27/MyJetpackComposeSubmission/actions/workflows/android%20CI.yml/badge.svg?branch=release)](https://github.com/MohFahmi27/MyJetpackComposeSubmission/actions/workflows/android%20CI.yml)
 
 This is submission for android Jetpack Compose course in <a href="https://www.dicoding.com/academies/445">dicoding.com</a>, please use this repository for referenced only, every plagiarism get automated detected.
 
