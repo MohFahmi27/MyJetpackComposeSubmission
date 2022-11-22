@@ -6,8 +6,9 @@ This is submission for android Jetpack Compose course in <a href="https://www.di
 ## Submission Screenshot:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50865350/202878965-382b46f7-1ad0-4f33-ba90-41c08eeda3e0.jpg" alt="Login" width="200"/>
-  <img src="https://user-images.githubusercontent.com/50865350/202878979-79e87f17-f4b9-46af-b49e-c29ae152d562.jpg" alt="Login" width="200"/>
+  <img src="https://user-images.githubusercontent.com/50865350/203195952-6641d8bb-1c36-41c4-9add-18ac00c8b3a4.jpg" alt="Login" width="200"/>
   <img src="https://user-images.githubusercontent.com/50865350/202878982-307f9d54-b0db-4245-a1e6-0cfb972a5c56.jpg" alt="Login" width="200"/>
+
 </p>
 
 ## License
